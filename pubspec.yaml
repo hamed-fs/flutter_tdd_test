@@ -14,6 +14,7 @@ dependencies:
   flutter_deriv_api:
     path: ./flutter-deriv-api/
   flutter_bloc: ^5.0.0
+  dartz: ^0.9.1
 
   cupertino_icons: ^0.1.3
 
