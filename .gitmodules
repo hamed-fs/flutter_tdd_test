@@ -1,0 +1,4 @@
+[submodule "flutter-deriv-api"]
+	path = flutter-deriv-api
+	url = https://github.com/hamed-fs/flutter-deriv-api.git
+	branch = hamed/update_bloc_library

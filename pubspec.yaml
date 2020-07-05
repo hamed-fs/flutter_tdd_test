@@ -11,12 +11,16 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  flutter_deriv_api:
+    path: ./flutter-deriv-api/
+  flutter_bloc: ^5.0.0
 
   cupertino_icons: ^0.1.3
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  bloc_test: ^6.0.0
 
 flutter:
   uses-material-design: true
